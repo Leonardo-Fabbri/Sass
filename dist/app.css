@@ -1,0 +1,67 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header, footer {
+  width: 100%;
+  height: 10vh;
+  text-align: center;
+  background-color: greenyellow;
+}
+
+main {
+  width: 80%;
+  margin: 0 auto;
+  height: 80vh;
+  background-color: orange;
+}
+
+.col-sx {
+  width: 33.33%;
+  height: 100%;
+  float: left;
+  border: 1px solid black;
+}
+
+.col-center {
+  width: 33.33%;
+  height: 100%;
+  float: left;
+  border: 1px solid black;
+}
+
+.col-dx {
+  width: 33.33%;
+  height: 100%;
+  float: left;
+  border: 1px solid black;
+}
+
+.INDEX-1 {
+  font-size: 20px;
+  text-align: center;
+  color: white;
+  width: 30%;
+  height: 10%;
+  background-color: red;
+}
+
+.INDEX-2 {
+  font-size: 40px;
+  text-align: center;
+  color: white;
+  width: 60%;
+  height: 20%;
+  background-color: red;
+}
+
+.INDEX-3 {
+  font-size: 60px;
+  text-align: center;
+  color: white;
+  width: 90%;
+  height: 30%;
+  background-color: red;
+}
